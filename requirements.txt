@@ -4,3 +4,4 @@ pandas
 joblib
 openpyxl
 scikit-learn
+python-multipart
